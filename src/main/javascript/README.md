@@ -1,4 +1,4 @@
-# Selendroid nodejs example
+# Selendroid nodejs example Trial
 
 ## Prerequisites
 
